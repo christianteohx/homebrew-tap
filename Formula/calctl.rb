@@ -6,7 +6,7 @@ class Calctl < Formula
   license "MIT"
   version "1.1.0"
 
-  depends_on :macos => :sonoma
+  depends_on :macos => :big_sur
 
   def install
     bin.install "calctl"
