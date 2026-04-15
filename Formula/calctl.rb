@@ -1,10 +1,10 @@
 class Calctl < Formula
   desc "Native macOS Apple Calendar CLI via EventKit"
   homepage "https://github.com/christianteohx/calctl"
-  url "https://github.com/christianteohx/calctl/releases/download/v1.3.0/calctl"
-  sha256 "f2be303decdc52c2907d53d870a9efcfae3d0e21aff272e79247430f174ab6ae"
+  url "https://github.com/christianteohx/calctl/releases/download/v1.3.1/calctl"
+  sha256 "f0f2d050b5e42fd07f55c76183210e0a9d42374263ad2564296f31d5a50a979c"
   license "MIT"
-  version "1.3.0"
+  version "1.3.1"
 
   depends_on :macos => :sonoma
 
